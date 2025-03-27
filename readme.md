@@ -38,6 +38,7 @@ pip install transformers datasets torch sentencepiece accelerate
 ### Step 1: Preparing Environment
 1. Open [Google Colab](https://colab.research.google.com)
 2. Select **Runtime > Change runtime type > GPU**
+3. Upload code.ipynb 
 
 ### Step 2: Upload Dataset
 - **Format:** CSV (e.g., `data.csv`)
